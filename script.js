@@ -1,3 +1,4 @@
+
 let students = JSON.parse(localStorage.getItem('students')) || [];
 
 function displayStudents() {
